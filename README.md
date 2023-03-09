@@ -8,4 +8,4 @@ npm install
 npm start
 ```
 
-![preview](instagramclone.jpg)
+![preview](demo.jpg)
