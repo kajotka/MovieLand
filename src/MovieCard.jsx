@@ -12,7 +12,7 @@ const MovieCard = ({movie: {imdbID, Year, Poster, Title, Type}}) => {
         </div>
         <div>
             <span>{Type}</span>
-            <h1>{Title}</h1>
+            <h1 className="movie-title">{Title}</h1>
         </div>
       </div>
     );

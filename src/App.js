@@ -22,7 +22,6 @@ useEffect(() => {
   };
 
 
-
   return (
     <div className="app">
       <h1>MovieLand</h1>
